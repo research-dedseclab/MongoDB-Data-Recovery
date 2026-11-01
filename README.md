@@ -1,4 +1,4 @@
-# MongoDB Forensics: Recovering Tampered Records from WiredTiger Storage Files
+# Recovering Historical Record States from MongoDB WiredTiger: Recovery Feasibility, Checkpoint Timing, and Replication Effects
 
 This repository contains the implementation and experimental artifacts from a forensic study investigating the recovery of tampered MongoDB records from WiredTiger storage files.
 
