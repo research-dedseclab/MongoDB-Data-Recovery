@@ -24,7 +24,7 @@ This study investigates:
 ## WiredTiger Internal Storage Architecture
 
 <p align="center">
-  <img src="WTInternals.png" alt="WiredTiger Page Structure" width="800"/>
+  <img src="WTInternals.png" alt="WiredTiger Page Structure" width="600"/>
 </p>
 
 *Simplified view of WiredTiger page structures and metadata relationships used during recovery.*
